@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontendmentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-challange-with-vanilla-html-and-css-rXiOd2jUmm)
 - Live Site URL: [Github Pages](https://kamal-redzwan.github.io/11-frontendmaster-stats-preview-card-component/)
 
 ## My process
