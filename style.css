@@ -40,15 +40,23 @@ body {
   background-color: var(--clr-primary-dark-desaturated-blue);
 }
 
+.header-image-wrapper {
+  background-color: var(--clr-primary-soft-violet);
+  border-radius: 0 var(--border-radius) var(--border-radius) 0;
+
+}
+
 img {
   width: 100%;
   display: block;
+  
 
-  border-radius: var(--border-radius) var(--border-radius) 0 0;
-
-  /* overlay purple */
+  /* overlay purple
   filter: grayscale(100%) brightness(70%) sepia(50%) hue-rotate(-110deg)
-    saturate(400%);
+    saturate(400%); */
+
+  mix-blend-mode: multiply;
+  opacity: 0.8;
 }
 
 .text {
